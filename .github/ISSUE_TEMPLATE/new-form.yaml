@@ -1,1 +1,11 @@
-
+name: Onboard new user
+description: Use this issue to give a GitHub user access to the metro-digital-inner-source organization
+labels: onboarding
+title: Onboard new user
+body:
+- type: markdown
+  value: "## Onboard new user"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
