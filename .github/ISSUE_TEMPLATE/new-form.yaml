@@ -4,7 +4,8 @@ labels: onboarding
 title: Onboard new user
 body:
 - type: markdown
-  value: "## Onboard new user"
+  attributes:
+    value: "## Onboard new user"
 - type: markdown
   attributes:
     value: |
